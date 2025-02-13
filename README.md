@@ -3,7 +3,7 @@
 > During my bachelor in CS we had this course about multithreading and we have been asked to come up with a project applying what we learned: This is a video game reimagining [*The Incredible Machine*](https://en.wikipedia.org/wiki/The_Incredible_Machine).
 
 > [!WARNING]
-> This is a student codebase dating back to 2016, this is a pain to build, read (in french), sorry 🙏
+> This is a student codebase dating back to 2016, this is a pain to build and to read (in french), sorry 🙏
 
 ||
 |--|
